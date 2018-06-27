@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>布衣男儿</title>
+    <link>https://huos3203.github.io/</link>
+    <copyright></copyright>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author>boyer</itunes:author>
+    <itunes:summary>不物喜，不己悲，善假物，易参行！</itunes:summary>
+    <itunes:owner>
+      <itunes:name>布衣男儿</itunes:name>
+      <itunes:email>724987481@qq.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://huos3203.github.io/uploads/podcase.png" />
+    <itunes:category text="podcast">
+      <itunes:category text="podcast" />
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <language>zh-CN</language>
+    
+    <item>
+      <title>千百度</title>
+      <description> 这里就是简介的描写，千百度，很好听的歌曲
+        
+            
+        
+        
+          var ap = new APlayer({
+            element: document.getElementById(&amp;quot;aplayer-ymKypWot&amp;quot;),
+            narrow: false,
+            autoplay: true,
+            showlrc: false,
+            music: {
+              title: &amp;quot;千百度&amp;quot;,
+              author: &amp;quot;许嵩&amp;quot;,
+              url: &amp;quot;/images/qbd.mp3&amp;quot;,
+              pic: &amp;quot;/images/BoldText.png&amp;quot;,
+              lrc: &amp;quot;&amp;quot;
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        
+歌词
+			
+				console.error(&amp;quot;Error: [hexo-tag-aplayer] Unrecognized tag argument(2): /images/BoldText.png&amp;quot;);
+			
+第一个播客测试了。
+ </description>
+      <itunes:author> boyer</itunes:author>
+      <itunes:subtitle> 这里就是简介的描写，千百度，很好听的歌曲</itunes:subtitle>
+      <itunes:summary> 这里就是简介的描写，千百度，很好听的歌曲 </itunes:summary>
+      <itunes:image href="https://huos3203.github.io/images/BoldText.png" />
+      <enclosure url="https://huos3203.github.io/images/qbd.mp3" length="226" type="audio/mpeg"/>
+      <guid></guid>
+      <pubDate>Fri, 05 Jan 2018 21:37:53 GMT</pubDate>
+      <itunes:duration>226</itunes:duration>
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+        
+          <psc:chapter start="120" title="千百度" />
+        
+      </psc:chapters>
+    </item>
+    
+  </channel>
+</rss>
